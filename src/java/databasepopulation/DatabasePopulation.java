@@ -7,6 +7,8 @@ import databasepopulation.randomdata.Person;
 import java.util.ArrayList;
 import java.util.List;
 
+//This class contains a main method
+
 public class DatabasePopulation {
 
     public static void main( String[] args ) {
