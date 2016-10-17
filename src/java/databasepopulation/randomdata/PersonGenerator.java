@@ -48,6 +48,7 @@ public final class PersonGenerator {
         return first + " " + last;
     }
 
+    //A String array with last names
     private static final String[] LASTNAMES = {"Ahmad", "Ahmed", "Ali", "Andersen", "Andersson", "Andreasen", "Andreassen", "Andresen", "Asmussen", "Bach", "Bak",
         "Bang", "Bech", "Beck", "Bendtsen", "Berg", "Bertelsen", "Berthelsen", "Bisgård", "Bisgaard", "Bjerre", "Bjerregård",
         "Bjerregaard", "Bonde", "Brandt", "Brodersen", "Bruun", "Buch", "Bundgård", "Bundgaard", "Carlsen", "Carstensen",
@@ -67,6 +68,8 @@ public final class PersonGenerator {
         "Søgård", "Søgaard", "Søndergård", "Søndergaard", "Sørensen", "Thomassen", "Thomsen", "Thorsen", "Thygesen", "Thøgersen",
         "Toft", "Vestergård", "Vestergaard", "Villadsen", "Vinther", "Winther", "Østergård", "Østergaard", "Ågård", "Aagård",
         "Ågaard", "Aagaard"};
+    
+    //A String array eith first names
     static final String[] FIRSTNAMES = {"Aake", "Abdallah", "Abdel", "Abdul", "Abel", "Abraham", "Absalon", "Achim", "Achton",
         "Acton", "Adalina", "Adam", "Adane", "Adda", "Addie", "Addy", "Adea", "Adela", "Adelaide", "Adelbert", "Adele",
         "Adèle", "Adelena", "Adelfine", "Adelgunde", "Adelheid", "Adelhejd", "Adelina", "Adeline", "Adia", "Adie", "Adils",
