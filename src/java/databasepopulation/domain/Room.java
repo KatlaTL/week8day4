@@ -10,6 +10,10 @@ package databasepopulation.domain;
 // 2. Place the cursor after the the { of the Room class, and press ctrl-space
 //    Or pick the menu "Source>complete code"
 //    From the menu that pops up, pick the longer constructor (which has generate at the end of the line)
+
+/*
+    This class contains getter and setter and a constructor for some attributes
+*/
 public class Room {
     private int id;
     private int floorNo;
