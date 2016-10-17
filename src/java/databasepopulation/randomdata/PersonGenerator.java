@@ -69,7 +69,7 @@ public final class PersonGenerator {
         "Toft", "Vestergård", "Vestergaard", "Villadsen", "Vinther", "Winther", "Østergård", "Østergaard", "Ågård", "Aagård",
         "Ågaard", "Aagaard"};
     
-    //A String array eith first names
+    //A String array with first names
     static final String[] FIRSTNAMES = {"Aake", "Abdallah", "Abdel", "Abdul", "Abel", "Abraham", "Absalon", "Achim", "Achton",
         "Acton", "Adalina", "Adam", "Adane", "Adda", "Addie", "Addy", "Adea", "Adela", "Adelaide", "Adelbert", "Adele",
         "Adèle", "Adelena", "Adelfine", "Adelgunde", "Adelheid", "Adelhejd", "Adelina", "Adeline", "Adia", "Adie", "Adils",
